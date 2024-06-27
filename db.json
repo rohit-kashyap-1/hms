@@ -1,0 +1,39 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. Kawai Vishkarma",
+      "degree": "M.BBS.",
+      "hospital": "All India Institue of Medical Sciences, Delhi",
+      "city": "City"
+    },
+    {
+      "id": "16b2",
+      "name": "Ravikant sharma",
+      "degree": "BAMS ",
+      "hospital": "JNU College of Medical Science",
+      "city": "New Delhi"
+    },
+    {
+      "id": "ed0d",
+      "name": "Sujeet Sharma",
+      "degree": "BBMAA",
+      "hospital": "DU Delhi",
+      "city": "Shahdaara"
+    },
+    {
+      "id": "d22c",
+      "name": "Shushma Bhardwaj",
+      "degree": "MBBS",
+      "hospital": "AIIMS Delhi",
+      "city": "Delhi"
+    },
+    {
+      "id": "4489",
+      "name": "Amita Khurana",
+      "degree": "MBBS",
+      "hospital": "AIIMS Delhi",
+      "city": "Jaipur"
+    }
+  ]
+}
